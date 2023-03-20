@@ -11,7 +11,7 @@ En este trabajo practico continuamos las practicas de ejercicios de JavaScrip.
 En una terminal ejecuta el siguiente comando:
 
    ```  
-   git clone https://github.com/SolPerato/trabajoPractico2js.git
+   git clone https://github.com/SolPerato/trabajoPractico3.git
    ```
 
    ## Autores
